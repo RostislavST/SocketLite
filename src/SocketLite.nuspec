@@ -3,14 +3,14 @@
   <metadata>
     <id>SocketLite.Rx2</id>
     <version>1.0.0</version>
-    <title>SocketLite .NET Standard Rx2 Library</title>
+    <title>SocketLite .NET Standard Library Rx2</title>
     <authors>Jasper H. Bojsen (inspired by socket-for.pcl by Ryan Davis)</authors>
     <owners>RostislavST</owners>
     <licenseUrl>https://github.com/RostislavST/SocketLite.Rx2/blob/master/LICENSE.md</licenseUrl>
     <projectUrl>https://github.com/RostislavST/SocketLite.Rx2</projectUrl>
     <iconUrl>https://nuget.org/Content/Images/packageDefaultIcon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Socket PCL Xamarin Cross platform for iOS and Android </description>
+    <description>Uses Rx v2.5.5</description>
     <releaseNotes>Downgrade to Rx 2.5.5</releaseNotes>
     <copyright>Copyright 2017</copyright>
     <tags>Socket, tcp, udp, xamarin, PCL, ios, android, netstandard</tags>
