@@ -1,0 +1,3 @@
+// BUILD ALL Releases
+
+nuget pack SocketLite.nuspec -Verbosity detailed

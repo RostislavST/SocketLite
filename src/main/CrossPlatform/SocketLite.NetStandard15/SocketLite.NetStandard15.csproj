@@ -4,6 +4,7 @@
     <TargetFramework>netstandard1.5</TargetFramework>
     <AssemblyName>SocketLite</AssemblyName>
     <RootNamespace>SocketLite</RootNamespace>
+    <PackageTargetFallback>portable-net45+win8</PackageTargetFallback>
   </PropertyGroup>
 
   <ItemGroup>
@@ -19,7 +20,7 @@
     <PackageReference Include="System.Net.NetworkInformation" Version="4.3.0" />
     <PackageReference Include="System.Net.Security" Version="4.3.1" />
     <PackageReference Include="System.Net.Sockets" Version="4.3.0" />
-    <PackageReference Include="System.Reactive" Version="3.1.1" />
+    <PackageReference Include="Rx-Main" Version="2.2.5" />
   </ItemGroup>
 
   <ItemGroup>

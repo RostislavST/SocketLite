@@ -4,10 +4,11 @@
     <TargetFramework>netstandard1.0</TargetFramework>
     <AssemblyName>SocketLite</AssemblyName>
     <RootNamespace>SocketLite.Bait</RootNamespace>
+    <PackageTargetFallback>portable-net45+win8</PackageTargetFallback>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="System.Reactive" Version="3.1.1" />
+    <PackageReference Include="Rx-Main" Version="2.2.5" />
   </ItemGroup>
 
   <ItemGroup>
